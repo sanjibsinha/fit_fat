@@ -2,7 +2,7 @@ class FitFat {
   String id;
   String typeOfExercise;
   double minutes;
-  int calory;
+  double calory;
 
   FitFat({
     required this.id,
